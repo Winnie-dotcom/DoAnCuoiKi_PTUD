@@ -44,7 +44,32 @@ Trang sức bạc không chỉ là phụ kiện thời trang mà còn là một 
 
 Hãy để những món trang sức bạc tôn vinh vẻ đẹp của bạn và là người bạn đồng hành trong cuộc sống hàng ngày!
 
-Bạn có yêu thích trang sức bạc không? Hãy chia sẻ cảm nhận hoặc những kiểu dáng mà bạn yêu thích trong phần bình luận nhé!', 'Nguyễn Ngọc Nhi', '2024-12-01', 'https://cdn.tgdd.vn/Files/2021/01/15/1320413/vi-sao-co-the-du-doan-duoc-tinh-trang-suc-khoe-nho-vao-trang-suc-bac-202101151100480702.jpg']
+Bạn có yêu thích trang sức bạc không? Hãy chia sẻ cảm nhận hoặc những kiểu dáng mà bạn yêu thích trong phần bình luận nhé!', 'Nguyễn Ngọc Nhi', '2024-12-01', 'https://cdn.tgdd.vn/Files/2021/01/15/1320413/vi-sao-co-the-du-doan-duoc-tinh-trang-suc-khoe-nho-vao-trang-suc-bac-202101151100480702.jpg'],
+['Cách Bảo Quản Trang Sức Bạc Để Giữ Được Sáng Đẹp', 'Trang sức bạc luôn là lựa chọn yêu thích của nhiều người nhờ vẻ đẹp thanh thoát và giá trị thẩm mỹ. Tuy nhiên, bạc có thể bị xỉn màu và mất đi độ sáng bóng nếu không được bảo quản đúng cách. Dưới đây là một số mẹo giúp bạn giữ cho trang sức bạc luôn đẹp như mới.
+
+1. Tránh Tiếp Xúc Với Hóa Chất
+Bạc dễ dàng bị oxy hóa khi tiếp xúc với các hóa chất như nước hoa, kem dưỡng da, hay các chất tẩy rửa gia dụng. Vì vậy, bạn nên tháo trang sức bạc khi sử dụng những sản phẩm này để bảo vệ chúng khỏi bị xỉn màu và mất đi vẻ sáng bóng.
+
+2. Lưu Trữ Đúng Cách
+Khi không sử dụng, bạn nên cất giữ trang sức bạc trong các túi vải mềm hoặc hộp đựng trang sức có lót vải để tránh trầy xước. Hãy đảm bảo rằng các món trang sức bạc không tiếp xúc trực tiếp với không khí để hạn chế việc oxy hóa.
+
+3. Vệ Sinh Định Kỳ
+Bạc có thể bị xỉn màu do bụi bẩn, dầu từ da hoặc môi trường xung quanh. Bạn có thể làm sạch trang sức bạc bằng cách sử dụng một miếng vải mềm và lau nhẹ nhàng. Để làm sáng bạc, bạn có thể sử dụng dung dịch chuyên dụng dành cho bạc hoặc dùng một ít kem đánh răng không chứa chất tẩy mạnh, sau đó rửa lại với nước ấm và lau khô bằng vải mềm.
+
+4. Tháo Trang Sức Khi Tắm, Bơi Hoặc Ngủ
+Nước và độ ẩm có thể làm cho bạc bị oxy hóa nhanh chóng. Vì vậy, bạn nên tháo trang sức bạc khi tắm, bơi hoặc khi đi ngủ để tránh tình trạng bạc bị ố vàng hoặc mất đi độ bóng.
+
+5. Chú Ý Đến Nguồn Sáng
+Tránh để trang sức bạc tiếp xúc với ánh sáng mặt trời trực tiếp trong thời gian dài, vì tia UV có thể khiến bạc bị xỉn màu. Lưu trữ trang sức bạc ở nơi khô ráo và thoáng mát để bảo vệ chúng lâu dài.
+
+6. Sử Dụng Sản Phẩm Chuyên Dụng
+Ngoài việc vệ sinh bằng các phương pháp thủ công, bạn cũng có thể sử dụng các sản phẩm chuyên dụng như khăn lau bạc hoặc dung dịch làm sáng bạc để duy trì độ sáng bóng của trang sức bạc.
+
+7. Tránh Va Đập Mạnh
+Bạc là chất liệu mềm và dễ bị trầy xước hoặc biến dạng nếu bị va đập mạnh. Hãy luôn cẩn thận khi đeo hoặc tháo trang sức bạc và tránh để chúng tiếp xúc với những vật sắc nhọn.
+
+Lời Kết
+Bằng cách bảo quản đúng cách, trang sức bạc sẽ luôn giữ được vẻ đẹp sáng bóng và bền lâu. Hãy áp dụng những mẹo trên để giúp món trang sức yêu thích của bạn luôn tỏa sáng!', 'Nguyễn Ngọc Mỹ Bình', '2024-12-15', 'https://file.hstatic.net/200000619649/file/z4264155003580_59389e54d47105ed63785c9e80903494_21cbbb717f2f4771886df9e9261468c9.jpg']
 ];
 // Chuẩn bị câu lệnh SQL để chèn dữ liệu vào bảng blog
 $stmt = $conn->prepare("INSERT INTO blog (ten_blog, noi_dung, tac_gia, ngay_dang, anh) VALUES (?, ?, ?, ?, ?)");
